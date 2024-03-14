@@ -1,4 +1,52 @@
-### Hi there 👋
+### 👋 Hi there, I'm Sai
+
+## About Me
+🇮🇳 Born in India
+
+### School
+🏫 Allen High School
+📓 12th Grade
+
+### Hobbies
+📚 Reading Books
+📺 Watching TV
+💻 Coding
+
+### My Favorites 
+🍕 Pizza
+📖 Historical/Non-fiction
+🔴 Red
+
+## Areas of Interest 
+
+- Front-end Web Developement
+- React Native App Development
+- Linux
+- Cybersecurity
+
+## Languages
+
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)     
+![](https://geps.dev/progress/90)
+
+![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
+![](https://geps.dev/progress/70)
+
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
+![](https://geps.dev/progress/50)
+
+## Certifications
+
+<a href="https://www.credly.com/badges/c184e485-5719-46a0-8dea-a19394cde473/public_url"><img src="https://github.com/saip9/saip9/assets/89651922/5d66b1ef-9892-4f51-99a8-cd709f697ae6" alt="GitHub Foundations" width="200" height="200"> </a>
+
+<a href="https://www.credly.com/badges/f0d569e7-1072-4400-b80d-dae903202c7f/public_url"><img src="https://github.com/saip9/saip9/assets/89651922/1a6820bd-a5de-4bb9-be9c-450bfa9eb6ce" alt="Introduction to Cybersecurity" width="200" height="200"> </a>
+
+<a href="https://www.freecodecamp.org/certification/fcc6f4e100e-a364-4352-ab7c-3c48ef139bad/responsive-web-design"><img src="https://github.com/saip9/saip9/assets/89651922/8f1969f8-7f21-4aad-aba6-dfaa862750f4" alt="freeCodeCamp Responsive Web Design" width="200" height="200"> </a>
+
+## GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=saip9)](https://git.io/streak-stats)
+
 
 <!--
 **saip9/saip9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
