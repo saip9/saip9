@@ -4,8 +4,8 @@
 🇮🇳 Born in India
 
 ### School
-🏫 Allen High School
-📓 12th Grade
+🏫 University of Texas at Dallas
+📓 Sophomore
 
 ### Hobbies
 📚 Reading Books
@@ -36,6 +36,8 @@
 ![](https://geps.dev/progress/50)
 
 ## Certifications
+
+<a href="https://www.credly.com/badges/7cf02663-5e63-4176-8b58-129b40bb9901/public_url"><img src="https://github.com/user-attachments/assets/cd4cce19-74a0-4a9a-b69f-87144d5e89c1" alt="Certified in Cybersecurity (CC)" width="200" height="200"> </a>
 
 <a href="https://www.credly.com/badges/fb63bfda-623c-4799-8ad0-bb10cec53c29/public_url"><img src="https://github.com/saip9/saip9/assets/89651922/80882848-ef05-43ec-8e70-01c0bdf878e7" alt="CompTIA Linux+ ce Certification" width="200" height="200"> </a>
 
