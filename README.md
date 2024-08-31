@@ -5,7 +5,7 @@
 
 ### School
 🏫 University of Texas at Dallas
-📓 Sophomore
+📓 Freshman
 
 ### Hobbies
 📚 Reading Books
