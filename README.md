@@ -1,7 +1,6 @@
 ### 👋 Hi there, I'm Sai
 
 ## About Me
-🇮🇳 Born in India
 
 ### School
 🏫 University of Texas at Dallas
